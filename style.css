@@ -1,0 +1,40 @@
+img{
+    height: 500px;
+    width: 1000px;
+}
+body{
+    text-align: center;
+}
+h3{
+    display: table;
+}
+#menu{
+  background-color:   linear-gradient(to right,indigo, violet);
+}
+#pkmnicu p{
+    font-size: 35px;
+    font-family: 'Permanent Marker', cursive;
+}
+#pkmnicu img{
+    height: 200px;
+    width: 200px;
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+    display: inline-block;
+    margin-top: 20px;
+}
+.movie_head i{
+    float: right;
+}
+.movie_text span{
+    color: #ff7700;
+}
+#pkmnicu p{
+    font-size: 35px;
+    font-family: 'Permanent Marker', cursive;
+}
